@@ -1,7 +1,7 @@
-package no.ntnu.idatg1001.LongJumpApp;
-import no.ntnu.idatg1001.LongJumpApp.longJumpResultsCore.InputHandler;
-import no.ntnu.idatg1001.LongJumpApp.longJumpResultsCore.LongJumpRegister;
-import no.ntnu.idatg1001.LongJumpApp.longJumpResultsCore.LongJumpResult;
+package no.ntnu.idatg1001.longjumpapp;
+import no.ntnu.idatg1001.longjumpapp.longjumpresultscore.InputHandler;
+import no.ntnu.idatg1001.longjumpapp.longjumpresultscore.LongJumpRegister;
+import no.ntnu.idatg1001.longjumpapp.longjumpresultscore.LongJumpResult;
 
 import java.time.LocalTime;
 
@@ -40,7 +40,7 @@ public class LongJumpApp {
      * @param args Commandline arguments as an array of String
      */
     public static void main(String[] args) {
-        LongJumpApp longJumpApp = new LongJumpApp();
+        new LongJumpApp();
     }
 
     /**

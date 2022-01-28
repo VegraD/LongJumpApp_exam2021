@@ -1,4 +1,4 @@
-package no.ntnu.idatg1001.LongJumpApp.longJumpResultsCore;
+package no.ntnu.idatg1001.longjumpapp.longjumpresultscore;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
